@@ -15,9 +15,7 @@ think siney - Ηλίας Μπαγλάνης
   Οι γνώσεις μου εμπλουτίζονταν βηματικά κατά τη διάρκεια των διαλέξεων του εξαμήνου με τον κ. Ζάννο, με παράλληλη στήριξη από βοηθητικά εργαλεία όπως τα βίντεο του Eli Fieldsteel και τα βιβλία των
 
 David Michael Cottle, Computer Music with examples in SuperCollider 3,
-
 Miller Puckette, The Theory and Technique of Electronic Music, και
-
 Bruno Ruviaro, A Gentle Introduction to SuperCollider.
 
 Περιγραφή τεχνικής
@@ -30,4 +28,15 @@ Bruno Ruviaro, A Gentle Introduction to SuperCollider.
   Συμπερασματικά
  
  Το SuperCollider, με τη βαθύτητα που παρουσιάζει, μου έδωσε τη δυνατότητα να καταλάβω τι ωραία που είναι όταν φτάνεις στην πηγή του ήχου. Πηγαίνοντας, φυσικά, προς τα πίσω. Και ως πηγή εννοείται το μηδέν, η αρχή του ήχου. Η δημιουργία απλών ήχων έως και σύνθετων, ποικιλόμορφων ηχητικών τοπίων, έρχεται μέσα από κάμποσες γραμμές κώδικα που όσο αυξάνονται φτιάχνουν ένα δέντρο με μουσικά κλαδιά που κάθε ένα από αυτά είναι ένας αριθμός λογικών εντολών, οδηγούμενων από μαθηματικές σχέσεις.
+
+
+Σύνδεσμοι:
+
+audio & video 
+
+https://drive.google.com/file/d/1F1pszehJ-XS83oShMpYSh_zv26KAy0iP/view?usp=sharing
+
+audio only
+
+https://drive.google.com/file/d/1ta7L7BTtlME00T3Rbsm6ALH1ZFVWAqDI/view?usp=sharing
 
