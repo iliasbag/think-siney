@@ -1,7 +1,6 @@
 //think siney
-//record your performance
-Server.default.record;
-//Play bad until siney birds
+
+//Play bad 3 times to create rhythmic pattern, until siney birds
 (
 SynthDef.new(\bad, {
 	arg freq = 314, amp=0.628, env_rate=0.942;
@@ -46,7 +45,7 @@ SynthDef.new(\bad, {
 )
 
 
-//add siny hyper - granulation
+//add siney hyper - granulation
 (
 SynthDef.new(\bad, {
 	arg freq = 314, amp=0.628, env_rate=0.942;
@@ -64,7 +63,7 @@ SynthDef.new(\bad, {
 }).add;
 )
 (
-314.do{
+44.do{
 	Synth(\bad, [\freq, exprand(203.14,2026.8), \env_rate, rrand(0.4,1.2), \amp, 0.1314]);
 };
 )
